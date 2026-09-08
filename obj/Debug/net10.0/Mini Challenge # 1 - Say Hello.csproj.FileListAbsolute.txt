@@ -1,0 +1,14 @@
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 1 - Say Hello\bin\Debug\net10.0\Mini Challenge # 1 - Say Hello.exe
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 1 - Say Hello\bin\Debug\net10.0\Mini Challenge # 1 - Say Hello.deps.json
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 1 - Say Hello\bin\Debug\net10.0\Mini Challenge # 1 - Say Hello.runtimeconfig.json
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 1 - Say Hello\bin\Debug\net10.0\Mini Challenge # 1 - Say Hello.dll
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 1 - Say Hello\bin\Debug\net10.0\Mini Challenge # 1 - Say Hello.pdb
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 1 - Say Hello\obj\Debug\net10.0\Mini Challenge # 1 - Say Hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 1 - Say Hello\obj\Debug\net10.0\Mini Challenge # 1 - Say Hello.AssemblyInfoInputs.cache
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 1 - Say Hello\obj\Debug\net10.0\Mini Challenge # 1 - Say Hello.AssemblyInfo.cs
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 1 - Say Hello\obj\Debug\net10.0\Mini Challenge # 1 - Say Hello.csproj.CoreCompileInputs.cache
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 1 - Say Hello\obj\Debug\net10.0\Mini Challenge # 1 - Say Hello.dll
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 1 - Say Hello\obj\Debug\net10.0\refint\Mini Challenge # 1 - Say Hello.dll
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 1 - Say Hello\obj\Debug\net10.0\Mini Challenge # 1 - Say Hello.pdb
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 1 - Say Hello\obj\Debug\net10.0\Mini Challenge # 1 - Say Hello.genruntimeconfig.cache
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 1 - Say Hello\obj\Debug\net10.0\ref\Mini Challenge # 1 - Say Hello.dll
